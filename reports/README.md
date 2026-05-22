@@ -1,4 +1,4 @@
-# Reports
+# Reports Folder
 
 This folder contains the final report and project documentation for the SIEM implementation using Wazuh.
 
