@@ -4,11 +4,12 @@ This folder contains technical documentation related to the implementation of th
 
 ## Contents
 
-- Wazuh installation and setup
-- Agent integration and monitoring
-- Attack simulation scenarios
-- Detection rule implementation
-- Telegram alert integration
-- Windows and Ubuntu agent configuration
+- installation.md → Wazuh server installation and initial setup
+- windows-agent.md → Windows agent integration and monitoring
+- ubuntu-agent.md → Ubuntu agent integration and monitoring
+- apache-webserver.md → Apache web server monitoring and log integration
+- attacker-scenarios.md → Attack simulation and testing scenarios
+- telegram-integration.md → Telegram alert notification integration
+- detection-rules.md → Detection rules and monitoring configuration
 
-The documentation summarizes the implementation process, monitoring activities, attack detection mechanisms, and system configuration used in the project.
+The documentation includes system setup, agent integration, attack simulations, monitoring activities, troubleshooting, and security event detection using Wazuh SIEM.
