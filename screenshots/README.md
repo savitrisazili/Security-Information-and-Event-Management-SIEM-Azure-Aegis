@@ -1,4 +1,4 @@
-# Screenshots
+# Screenshots Folder
 
 This folder contains screenshots and visual documentation of the SIEM Wazuh Lab project.
 
