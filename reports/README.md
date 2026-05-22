@@ -1,0 +1,1 @@
+This folder contains the final report of the SIEM Wazuh Lab Project, including system design and implementation, topology configuration, detection rules, attack testing scenarios, detection results, troubleshooting, and project conclusions
