@@ -1,4 +1,4 @@
-# Documentation
+# Documentation Folder
 
 This folder contains technical documentation related to the implementation of the SIEM project using Wazuh.
 
