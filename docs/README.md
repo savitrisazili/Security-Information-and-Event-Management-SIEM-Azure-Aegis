@@ -1,1 +1,14 @@
-This folder contains the technical documentation of the SIEM Wazuh Lab Project, including installation and setup guides, attack simulation scenarios, monitoring configurations, detection rules, and network topology documentation
+# Documentation
+
+This folder contains technical documentation related to the implementation of the SIEM project using Wazuh.
+
+## Contents
+
+- Wazuh installation and setup
+- Agent integration and monitoring
+- Attack simulation scenarios
+- Detection rule implementation
+- Telegram alert integration
+- Windows and Ubuntu agent configuration
+
+The documentation summarizes the implementation process, monitoring activities, attack detection mechanisms, and system configuration used in the project.
