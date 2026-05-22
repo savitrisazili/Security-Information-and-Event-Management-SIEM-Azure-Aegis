@@ -75,7 +75,7 @@ The SIEM implementation successfully:
 - Sent notifications via Telegram integration
 
 ## Team
-AEGIS Blue Team 7
+AZURE AEGIS Blue Team 7
 
 ## Disclaimer
 This project was developed for educational and cybersecurity learning purposes only.
