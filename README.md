@@ -63,7 +63,7 @@ The project includes several attack simulation scenarios such as:
 - SSH brute force attacks
 - Port scanning attacks
 - Failed login attempts
-- User activity monitoring
+- User activity monitoring (useradd)
 - Access admin/phpmyadmin
 
 ## Results
