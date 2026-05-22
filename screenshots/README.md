@@ -1,1 +1,1 @@
-This folder contains screenshots of the SIEM Wazuh Lab Project implementation, including dashboard monitoring, alerts detection, agent integration, server configuration, attack simulation scenarios, and system installation processes.
+This folder contains screenshots of the SIEM Wazuh Lab Project implementation, including sharing sessions documentation, dashboard monitoring, alerts detection, agent integration, server configuration, attack simulation scenarios, and system installation processes.
