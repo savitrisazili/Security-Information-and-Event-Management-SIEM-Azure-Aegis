@@ -1,4 +1,4 @@
-# Configuration Files
+# Configuration Folder
 
 This folder contains the main configuration files used in the SIEM Wazuh project.
 
