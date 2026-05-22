@@ -1,4 +1,4 @@
-# Presentation Files
+# Presentation Folder
 
 This folder contains the presentation slides for the SIEM Wazuh Lab project developed by Azure Aegis (Blue Team 7).
 
