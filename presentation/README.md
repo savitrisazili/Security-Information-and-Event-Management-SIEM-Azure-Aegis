@@ -1,0 +1,1 @@
+This folder contains the presentation slides of the SIEM Wazuh Lab Project, summarizing the system implementation, detection rules, attack testing scenarios, monitoring results, and project conclusions.
