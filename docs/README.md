@@ -1,1 +1,1 @@
-wait yah
+This folder contains the technical documentation of the SIEM Wazuh Lab Project, including installation and setup guides, attack simulation scenarios, monitoring configurations, detection rules, and network topology documentation
